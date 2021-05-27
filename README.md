@@ -13,7 +13,7 @@ The codes are developed in Python v3.6 with jupyter notebook, and the dependent 
 You also need the parameter file `vgg19.npy` which can be downloaded from [link](https://www.dropbox.com/s/691wtp4oq5ip38p/vgg19.npy) (by [rikardocorp/tensorflow_vgg_train](https://github.com/rikardocorp/tensorflow_vgg_train)).
 
 
-## Paper information
+## Paper Information
 ```
 Mengzhou Li, Hongming Shan, Sergey Pryshchep, Maria M. Lopez, Ge Wang, "Deep adversarial network for super stimulated emission depletion imaging," J. Nanophoton. 14(1) 016009 (14 February 2020) https://doi.org/10.1117/1.JNP.14.016009
 ```
