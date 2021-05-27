@@ -10,7 +10,7 @@ scipy 1.3.1
 scikit-learn 0.20.1
 matplotlib 3.1.1
 
-You also need the parameter file `vgg19.npy` which can be downloaded from [link]('https://www.dropbox.com/s/691wtp4oq5ip38p/vgg19.npy') (from [rikardocorp/tensorflow_vgg_train](https://github.com/rikardocorp/tensorflow_vgg_train)).
+You also need the parameter file `vgg19.npy` which can be downloaded from [link](https://www.dropbox.com/s/691wtp4oq5ip38p/vgg19.npy) (from [rikardocorp/tensorflow_vgg_train](https://github.com/rikardocorp/tensorflow_vgg_train)).
 
 
 
