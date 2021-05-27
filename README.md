@@ -10,7 +10,7 @@ The codes are developed in Python v3.6 with jupyter notebook, and the dependent 
 * scikit-learn 0.20.1
 * matplotlib 3.1.1
 
-You also need the parameter file `vgg19.npy` which can be downloaded from [link](https://www.dropbox.com/s/691wtp4oq5ip38p/vgg19.npy) (by [rikardocorp/tensorflow_vgg_train](https://github.com/rikardocorp/tensorflow_vgg_train)).
+You also need the parameter file `vgg19.npy` for the VGG19 network which can be downloaded from [link](https://www.dropbox.com/s/691wtp4oq5ip38p/vgg19.npy) (by [rikardocorp/tensorflow_vgg_train](https://github.com/rikardocorp/tensorflow_vgg_train)).
 
 The file `CPCE_SR.ipynb` is for network training. The file `Test_CPCE_SR.ipynb` is for testing.
 The shuffled training data of patch pairs (64 by 64) are stored in 5 `.h5` files (`M0.h5` to `M4.h5`). The validation data during training and the testing data after training are stored in `.mat` files.
